@@ -1,0 +1,65 @@
+.app-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .nav-container {
+    background-color: #e2e8f0;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .nav-image {
+    height: 50px;
+    width: 150px;
+    margin-left: 40px;
+  }
+  .list-container {
+    width: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .select-class {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+  }
+  .ul-card {
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .li-card {
+    width: 22%;
+    list-style-type: none;
+    margin-bottom: 20px;
+  }
+  .image {
+    height: 100px;
+    width: 100%;
+  }
+  .heading {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Roboto';
+    color: #475569;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image {
+    height: 200px;
+    width: 80%;
+  }
+  
